@@ -1,0 +1,7 @@
+
+config EXTERNAL_PYBIND11
+  bool "pybind11 Library"
+  default n
+  ---help---
+  pybind11 library for python bindings
+
